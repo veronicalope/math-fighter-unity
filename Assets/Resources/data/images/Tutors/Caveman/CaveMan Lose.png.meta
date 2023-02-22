@@ -1,0 +1,707 @@
+fileFormatVersion: 2
+guid: d1d9d73014966a4478d0b85a0a194cac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4139886194781004048
+    second: Cave Man Lose_0
+  - first:
+      213: -3382203761609027543
+    second: Cave Man Lose_1
+  - first:
+      213: -3496864381341552922
+    second: Cave Man Lose_2
+  - first:
+      213: -8726495812432981543
+    second: Cave Man Lose_3
+  - first:
+      213: 2891143935448553196
+    second: Cave Man Lose_4
+  - first:
+      213: -3388641424670422926
+    second: Cave Man Lose_5
+  - first:
+      213: 3737413788957584916
+    second: Cave Man Lose_6
+  - first:
+      213: -2801202704356960136
+    second: Cave Man Lose_7
+  - first:
+      213: -5396569382079195326
+    second: Cave Man Lose_8
+  - first:
+      213: 7013074737287724120
+    second: Cave Man Lose_9
+  - first:
+      213: 8539592596071472908
+    second: Cave Man Lose_10
+  - first:
+      213: 1909111177969576089
+    second: Cave Man Lose_11
+  - first:
+      213: -9209445301522263982
+    second: Cave Man Lose_12
+  - first:
+      213: -647395576005250968
+    second: Cave Man Lose_13
+  - first:
+      213: -5668051621839093229
+    second: Cave Man Lose_14
+  - first:
+      213: 3034595926172175094
+    second: Cave Man Lose_15
+  - first:
+      213: -2214431135209023410
+    second: Cave Man Lose_16
+  - first:
+      213: -313014046519440194
+    second: Cave Man Lose_17
+  - first:
+      213: 6075796023404520328
+    second: Cave Man Lose_18
+  - first:
+      213: -343356031446621646
+    second: Cave Man Lose_19
+  - first:
+      213: 6254926234978867707
+    second: CaveMan Lose_0
+  - first:
+      213: 4737619791168977143
+    second: CaveMan Lose_1
+  - first:
+      213: -1307424475497768527
+    second: CaveMan Lose_2
+  - first:
+      213: 8258485525411347521
+    second: CaveMan Lose_3
+  - first:
+      213: -7481961218304210344
+    second: CaveMan Lose_4
+  - first:
+      213: -6593170157022068855
+    second: CaveMan Lose_5
+  - first:
+      213: 1443461117322052907
+    second: CaveMan Lose_6
+  - first:
+      213: -8387223595387680304
+    second: CaveMan Lose_7
+  - first:
+      213: 1933771715361458172
+    second: CaveMan Lose_8
+  - first:
+      213: -236796589104741710
+    second: CaveMan Lose_9
+  - first:
+      213: 7730641482550639572
+    second: CaveMan Lose_10
+  - first:
+      213: -2233737892522663402
+    second: CaveMan Lose_11
+  - first:
+      213: 6967705002061777831
+    second: CaveMan Lose_12
+  - first:
+      213: -2896252210966234202
+    second: CaveMan Lose_13
+  - first:
+      213: 5947409550442397742
+    second: CaveMan Lose_14
+  - first:
+      213: 3465579824546479530
+    second: CaveMan Lose_15
+  - first:
+      213: -5044930736487305474
+    second: CaveMan Lose_16
+  - first:
+      213: 7096963158588780774
+    second: CaveMan Lose_17
+  - first:
+      213: -7848225410989091372
+    second: CaveMan Lose_18
+  - first:
+      213: 237769082048981634
+    second: CaveMan Lose_19
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CaveMan Lose_0
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 1795
+        width: 294
+        height: 370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9df2c4546fdc650800000000000000
+      internalID: 6254926234978867707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_1
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1795
+        width: 248
+        height: 370
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f8bc7d59186fb140800000000000000
+      internalID: 4737619791168977143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_2
+      rect:
+        serializedVersion: 2
+        x: 1005
+        y: 1795
+        width: 242
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b9dd47dd581bdde0800000000000000
+      internalID: -1307424475497768527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_3
+      rect:
+        serializedVersion: 2
+        x: 1460
+        y: 1795
+        width: 232
+        height: 375
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c39dc74d80c9270800000000000000
+      internalID: 8258485525411347521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_4
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1355
+        width: 232
+        height: 381
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a8abfb9ebba2890800000000000000
+      internalID: -7481961218304210344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_5
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 1723
+        width: 39
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98f3efe9caa5084a0800000000000000
+      internalID: -6593170157022068855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_6
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1689
+        width: 59
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25c1190d34380410800000000000000
+      internalID: 1443461117322052907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_7
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1355
+        width: 242
+        height: 404
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98421d3989a9b80800000000000000
+      internalID: -8387223595387680304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_8
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 1355
+        width: 247
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf741da212326da10800000000000000
+      internalID: 1933771715361458172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_9
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 1355
+        width: 294
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b2436eb1cab6bcf0800000000000000
+      internalID: -236796589104741710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_10
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 915
+        width: 294
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4db745d3871c84b60800000000000000
+      internalID: 7730641482550639572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_11
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 915
+        width: 294
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126bdab83b2001e0800000000000000
+      internalID: -2233737892522663402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_12
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 915
+        width: 294
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7abca9b68c242b060800000000000000
+      internalID: 6967705002061777831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_13
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 915
+        width: 294
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abfa6985f17ec7d0800000000000000
+      internalID: -2896252210966234202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_14
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 474
+        width: 294
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2082e3b971798250800000000000000
+      internalID: 5947409550442397742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_15
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 474
+        width: 294
+        height: 380
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aad7ade2d76381030800000000000000
+      internalID: 3465579824546479530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_16
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 474
+        width: 294
+        height: 381
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe693f693eccf9b0800000000000000
+      internalID: -5044930736487305474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_17
+      rect:
+        serializedVersion: 2
+        x: 1393
+        y: 474
+        width: 294
+        height: 381
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e0f7b3346a7d7260800000000000000
+      internalID: 7096963158588780774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_18
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 39
+        width: 343
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d51dc40290851390800000000000000
+      internalID: -7848225410989091372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CaveMan Lose_19
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 42
+        width: 356
+        height: 170
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28aa91a68b9bc4300800000000000000
+      internalID: 237769082048981634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      CaveMan Lose_18: -7848225410989091372
+      CaveMan Lose_12: 6967705002061777831
+      CaveMan Lose_15: 3465579824546479530
+      CaveMan Lose_13: -2896252210966234202
+      CaveMan Lose_16: -5044930736487305474
+      CaveMan Lose_11: -2233737892522663402
+      CaveMan Lose_14: 5947409550442397742
+      CaveMan Lose_4: -7481961218304210344
+      CaveMan Lose_19: 237769082048981634
+      CaveMan Lose_3: 8258485525411347521
+      CaveMan Lose_5: -6593170157022068855
+      CaveMan Lose_1: 4737619791168977143
+      CaveMan Lose_2: -1307424475497768527
+      CaveMan Lose_6: 1443461117322052907
+      CaveMan Lose_10: 7730641482550639572
+      CaveMan Lose_0: 6254926234978867707
+      CaveMan Lose_7: -8387223595387680304
+      CaveMan Lose_8: 1933771715361458172
+      CaveMan Lose_9: -236796589104741710
+      CaveMan Lose_17: 7096963158588780774
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
